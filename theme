@@ -43,7 +43,7 @@ while true; do
             echo "==============================================="
             echo " 🗑️  Uninstalling Theme..."
             echo "==============================================="
-            bash <(curl -sSL https://raw.githubusercontent.com/ItsMePara123/GG/refs/heads/main/uninstalltheme)
+            bash <(curl -sSL https://raw.githubusercontent.com/gamerzrdx/menu/refs/heads/main/uninstalltheme)
             echo ""
             echo "✅ Theme uninstalled and panel restored to default!"
             ;;
