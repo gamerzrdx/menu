@@ -52,6 +52,6 @@ done
 # Completion Message
 echo -e "\n\033[1;32m-------------------------------------\033[0m"
 echo -e "\033[1;32mBlueprint extensions installed successfully! 🎉\033[0m"
-echo -e "\033[1;35m           Made by Para\033[0m"
-echo -e "\033[1;35m       github.com/Para\033[0m"
+echo -e "\033[1;35m           Made by rdx\033[0m"
+echo -e "\033[1;35m       github.com/gamerzrdx\033[0m"
 echo -e "\033[1;32m-------------------------------------\033[0m"
