@@ -26,7 +26,7 @@ while true; do
             echo "Please visit the following link to read the"
             echo "installation guide and install the theme:"
             echo ""
-            echo "👉 https://github.com/ParaNoob123/IPV6-Nebula"
+            echo "👉 https://github.com/gamerzrdx/IPV6-Nebula.git"
             echo ""
             ;;
         2)
@@ -34,7 +34,7 @@ while true; do
             echo "==============================================="
             echo " 🚀 Installing Nook Theme..."
             echo "==============================================="
-            bash <(curl -sSL https://raw.githubusercontent.com/ItsMePara123/GG/refs/heads/main/nookthemeinstall)
+            bash <(curl -sSL https://raw.githubusercontent.com/gamerzrdx/menu/refs/heads/main/nooktheme)
             echo ""
             echo "✅ Nook Theme installed successfully!"
             ;;
